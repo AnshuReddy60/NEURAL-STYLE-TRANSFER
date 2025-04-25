@@ -88,3 +88,7 @@ You can modify the script to use different content and style images, or adjust t
 ### **Conclusion**
 
 This **Neural Style Transfer** project demonstrates how deep learning models can be used for artistic applications. Using a pre-trained VGG19 model, it combines content and style from two images to create a new, artistic image that merges both. The project illustrates the potential of **deep learning** for creative and artistic purposes, and serves as a great introduction to using **PyTorch** for image-based tasks.
+
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/9fd5e5ea-c234-4d31-8140-2c3cf46af67e)
